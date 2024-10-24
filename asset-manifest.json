@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vtweb/static/css/main.79d19d76.css",
+    "main.js": "/vtweb/static/js/main.8d3b752b.js",
+    "static/js/453.fa8bc5ae.chunk.js": "/vtweb/static/js/453.fa8bc5ae.chunk.js",
+    "index.html": "/vtweb/index.html",
+    "main.79d19d76.css.map": "/vtweb/static/css/main.79d19d76.css.map",
+    "main.8d3b752b.js.map": "/vtweb/static/js/main.8d3b752b.js.map",
+    "453.fa8bc5ae.chunk.js.map": "/vtweb/static/js/453.fa8bc5ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.8d3b752b.js"
+  ]
+}
